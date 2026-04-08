@@ -2,10 +2,10 @@
 
 Hello, this is my collection of coding projects:
 
-Quick Navigation:
-1. Data Cleanup in SQL https://github.com/austinbeickert/mycodebase?tab=readme-ov-file#data-cleanup
-2. Dark Souls: The Musical. A Python Mod: https://github.com/austinbeickert/mycodebase?tab=readme-ov-file#dark-souls-the-musical
-3. Target API and Data Scrape Skeleton: https://github.com/austinbeickert/mycodebase/blob/main/README.md#the-red-aisle
+Contents:
+1. Data Cleanup in SQL    https://github.com/austinbeickert/mycodebase?tab=readme-ov-file#data-cleanup
+2. Dark Souls: The Musical. A Python Mod:    https://github.com/austinbeickert/mycodebase?tab=readme-ov-file#dark-souls-the-musical
+3. Target API and Data Scrape Skeleton:    https://github.com/austinbeickert/mycodebase/blob/main/README.md#the-red-aisle
    
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
