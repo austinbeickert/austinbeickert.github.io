@@ -1,6 +1,5 @@
+#SITE IN PROGRESS
 # austinbeickert.github.io
-
-Hello, this is my collection of coding projects:
 
 Contents:
 1. Data Cleanup in SQL    https://github.com/austinbeickert/mycodebase?tab=readme-ov-file#data-cleanup
